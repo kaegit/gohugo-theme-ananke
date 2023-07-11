@@ -22,7 +22,7 @@
   "postcss-cssnext": "^2.10.0",
   "tachyons": "^4.9.1"
  },
- "homepage": "https://github.com/theNewDynamic/gohugo-theme-ananke#readme",
+ "homepage": "https://github.com/kaegit/gohugo-theme-ananke#readme",
  "keywords": [
   "hugo",
   "gohugo"
@@ -32,7 +32,7 @@
  "name": "gohugo-theme-ananke",
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/theNewDynamic/gohugo-theme-ananke.git"
+  "url": "git+https://github.com/kaegit/gohugo-theme-ananke.git"
  },
  "scripts": {
   "version": "auto-changelog -p --template keepachangelog --commit-limit 0 \u0026\u0026 git add CHANGELOG.md"
