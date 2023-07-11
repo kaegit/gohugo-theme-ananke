@@ -38,5 +38,5 @@
   "version": "auto-changelog -p --template keepachangelog --commit-limit 0 \u0026\u0026 git add CHANGELOG.md",
   "deploy": " cd exampleSite; hugo;"
  },
- "version": "2.7.0"
+ "version": "2.8.0"
 }
